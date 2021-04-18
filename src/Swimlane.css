@@ -1,0 +1,13 @@
+.scrum-board {
+  display: flex;
+  background-color: #16161a;
+}
+
+.swimlane-heading {
+  color: #fffffe;
+  margin-left: 0.75vw;
+}
+
+.swimlane {
+  background: #7f5af0;
+}
